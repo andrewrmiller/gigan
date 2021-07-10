@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/35175972/125168587-1d03e480-e15b-11eb-8bd3-d7420a9f9d78.png)
+
+
 # Gigan - Desktop Jira Client
 
 A Flutter desktop project.
