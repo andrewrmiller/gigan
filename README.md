@@ -1,6 +1,6 @@
-# gigan
+# Gigan - Desktop Jira Client
 
-A new Flutter project.
+A Flutter desktop project.
 
 ## Getting Started
 
