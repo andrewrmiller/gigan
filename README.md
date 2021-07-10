@@ -5,15 +5,12 @@
 
 A Flutter desktop project.
 
-## Getting Started
+## Motivation
 
-This project is a starting point for a Flutter application.
+Jira's web UI has a number of issues.  Using it daily can be painful.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Create new issue form has different capabilities than edit existing issue form
+- When converting an issue from one type to another you are often left at a random location
+- Can't easily change owner and status in all list views
+- Web app can be slow at times
+- etc.
